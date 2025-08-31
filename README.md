@@ -2,4 +2,4 @@
 
 I am a PhD graduate and computational biologist primarily focussed on applying computational mathematical model to study molecular evolution and phylogenetics. 
 
-My current role as data scientist is to work with startups and small-scale private limited companies primarily focused on local ecological development, rewilding, and enhancing urban greenery. My primary role as data scientist is to build predictive models suitable to observed their sales data and provide reports to improve their sales performance. I use machine learning especially time-series models trained on structured data sources including previous yearly sales records, ledger entries, debit and credit vouchers, and monthly revenue/expense summaries. Also include external factors that influence sales such as Bank holidays, annual festivals, local events, etc. Keeping these financial indicators, the resulting predictive insights help businesses make unbiased, data-driven decisions to strategically improve sales performance.
+
