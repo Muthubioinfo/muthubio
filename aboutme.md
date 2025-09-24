@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Things you'd want to know about me.
 ---
 
 I am Muthu (meaning pearl in Tamil language) aka Muthukumaran Panchaksaram.
