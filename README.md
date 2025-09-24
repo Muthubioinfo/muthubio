@@ -1,4 +1,4 @@
 # Muthu's page
 
-The template for my GitHub page is an modified version of 'beautiful jekyll' repo. 
+This repo is a template for my GitHub page, based on [beautiful jekyll](https://github.com/daattali/beautiful-jekyll). 
 
