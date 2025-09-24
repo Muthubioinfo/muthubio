@@ -17,7 +17,10 @@ layout: null
   --footer-text-col: {{ site.footer-text-col | default: "#777777" }};
   --footer-link-col: {{ site.footer-link-col | default: "#404040" }};
   --footer-hover-col: {{ site.footer-hover-col | default: "#FF748C" }};
+<<<<<<< HEAD
   
+=======
+>>>>>>> f1d066f6c3f45348d9bed09ddf8d9920ce17a71a
 
   /* common CSS variables */
   --body-font: 'Lora', 'Times New Roman', serif;
@@ -239,7 +242,7 @@ img {
   border-width: 0.4em;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 900px) {
   .navbar-custom {
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
@@ -264,7 +267,7 @@ img {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 900px) {
   .navbar-custom .nav-item.dropdown:hover {
     background: rgba(0, 0, 0, 0.1);
   }
@@ -299,7 +302,7 @@ img {
   {% endunless %}
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 900px) {
   .navbar-custom .nav-item.dropdown .dropdown-menu {
     text-align: center;
   }
@@ -385,7 +388,7 @@ img {
   display: none;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 900px) {
   .navbar-custom.top-nav-regular .avatar-container {
     width: 6.25rem;
     bottom: -1.9375rem;
@@ -754,7 +757,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   bottom: 0;
   display: none;
 }
-@media (min-width: 1200px) {
+@media (min-width: 900px) {
   .intro-header {
     margin-top: 8.125rem;
   }
